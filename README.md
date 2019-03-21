@@ -1,2 +1,2 @@
-# -interesting
+# about
 Do some interesting projects
